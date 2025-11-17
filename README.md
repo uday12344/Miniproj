@@ -1,4 +1,4 @@
-📊 Conversational Data Assistant
+# 📊 Conversational Data Assistant
 
 The Conversational Data Assistant is a full-stack AI-powered application that lets users upload datasets, automatically analyze them, generate visualizations, and receive narrative insights — all through a clean, modern interface.
 
