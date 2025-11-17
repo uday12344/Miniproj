@@ -2,7 +2,7 @@
 
 The Conversational Data Assistant is a full-stack AI-powered application that lets users upload datasets, automatically analyze them, generate visualizations, and receive narrative insights — all through a clean, modern interface.
 
-✨ Features
+#✨ Features
 
 AI-Driven Data Analysis
 Automatically processes CSV/XLSX files and extracts patterns, correlations, and insights.
